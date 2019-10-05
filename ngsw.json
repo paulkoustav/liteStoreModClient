@@ -1,0 +1,104 @@
+{
+  "configVersion": 1,
+  "timestamp": 1570296142552,
+  "index": "/liteStoreModClient/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/liteStoreModClient/10-es2015.e63e50280b1baef5e67c.js",
+        "/liteStoreModClient/10-es5.e63e50280b1baef5e67c.js",
+        "/liteStoreModClient/6-es2015.bb1dff083496f72d1811.js",
+        "/liteStoreModClient/6-es5.bb1dff083496f72d1811.js",
+        "/liteStoreModClient/7-es2015.48b316e9a62bfd3c8b70.js",
+        "/liteStoreModClient/7-es5.48b316e9a62bfd3c8b70.js",
+        "/liteStoreModClient/8-es2015.8a7d370c6363786aa9c8.js",
+        "/liteStoreModClient/8-es5.8a7d370c6363786aa9c8.js",
+        "/liteStoreModClient/9-es2015.479791f43692cd42955d.js",
+        "/liteStoreModClient/9-es5.479791f43692cd42955d.js",
+        "/liteStoreModClient/common-es2015.99a5750758c123eca77e.js",
+        "/liteStoreModClient/common-es5.99a5750758c123eca77e.js",
+        "/liteStoreModClient/favicon.ico",
+        "/liteStoreModClient/index.html",
+        "/liteStoreModClient/main-es2015.97712d17b6b07f557c53.js",
+        "/liteStoreModClient/main-es5.97712d17b6b07f557c53.js",
+        "/liteStoreModClient/manifest.webmanifest",
+        "/liteStoreModClient/polyfills-es2015.ed7ac7da72c40ea128b2.js",
+        "/liteStoreModClient/polyfills-es5.d4b61e216881b2a9a1e0.js",
+        "/liteStoreModClient/runtime-es2015.6aa4bd483f01c14024cb.js",
+        "/liteStoreModClient/runtime-es5.6aa4bd483f01c14024cb.js",
+        "/liteStoreModClient/styles.09e2c710755c8867a460.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/liteStoreModClient/assets/icons/icon-128x128.png",
+        "/liteStoreModClient/assets/icons/icon-144x144.png",
+        "/liteStoreModClient/assets/icons/icon-152x152.png",
+        "/liteStoreModClient/assets/icons/icon-192x192.png",
+        "/liteStoreModClient/assets/icons/icon-384x384.png",
+        "/liteStoreModClient/assets/icons/icon-512x512.png",
+        "/liteStoreModClient/assets/icons/icon-72x72.png",
+        "/liteStoreModClient/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/liteStoreModClient/10-es2015.e63e50280b1baef5e67c.js": "de26314d7daa9ae3ce50e6fe64dc1f60504da5c1",
+    "/liteStoreModClient/10-es5.e63e50280b1baef5e67c.js": "7c3d67abbc6ef1fd7b4205354ae8208061967d63",
+    "/liteStoreModClient/6-es2015.bb1dff083496f72d1811.js": "5c57a2b7bc61df9dd1dbb2e939f0b1e9461457aa",
+    "/liteStoreModClient/6-es5.bb1dff083496f72d1811.js": "e49c502d4a2260ac217c1631746d7bdf75ff78b2",
+    "/liteStoreModClient/7-es2015.48b316e9a62bfd3c8b70.js": "2a31dd38eb806ac9c9d1c8afeed9522d02454b1c",
+    "/liteStoreModClient/7-es5.48b316e9a62bfd3c8b70.js": "e3d8e65cd07287a253d53f79499b37e24137be5f",
+    "/liteStoreModClient/8-es2015.8a7d370c6363786aa9c8.js": "2dbad847b262f6bc43b72da795b1bab8db515369",
+    "/liteStoreModClient/8-es5.8a7d370c6363786aa9c8.js": "b2fdc051f7be0211b3c1d283ed9d877daad74095",
+    "/liteStoreModClient/9-es2015.479791f43692cd42955d.js": "c816b7baf6f689866713956a1046391508f1dd70",
+    "/liteStoreModClient/9-es5.479791f43692cd42955d.js": "1960e2aaa123a0c4402812bc273de04000764631",
+    "/liteStoreModClient/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/liteStoreModClient/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/liteStoreModClient/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/liteStoreModClient/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/liteStoreModClient/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/liteStoreModClient/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/liteStoreModClient/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/liteStoreModClient/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/liteStoreModClient/common-es2015.99a5750758c123eca77e.js": "7da8a4953c1dd1953532758dc9b040f1bc44e7b7",
+    "/liteStoreModClient/common-es5.99a5750758c123eca77e.js": "f1a7aabd3e44d986d44fb35835957100642b3813",
+    "/liteStoreModClient/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/liteStoreModClient/index.html": "ca0fa833a05f1ee322acf0f4a9e2cee4647eba8b",
+    "/liteStoreModClient/main-es2015.97712d17b6b07f557c53.js": "19f2b382e6bae9ece422fe359cbdeb236fe208ba",
+    "/liteStoreModClient/main-es5.97712d17b6b07f557c53.js": "848541bda8ecb324fcc594ffd1547cd2d800c31d",
+    "/liteStoreModClient/manifest.webmanifest": "ecaff6552afde3578b897feb6c065612f95c4310",
+    "/liteStoreModClient/polyfills-es2015.ed7ac7da72c40ea128b2.js": "aa7337b90a54bee56e29fe430cd4bd500b183d39",
+    "/liteStoreModClient/polyfills-es5.d4b61e216881b2a9a1e0.js": "54b84847fd622e03f168b2fe6c17cf067ea4ac6c",
+    "/liteStoreModClient/runtime-es2015.6aa4bd483f01c14024cb.js": "8ada8974d941f71722779e9e081c57ce5d871aca",
+    "/liteStoreModClient/runtime-es5.6aa4bd483f01c14024cb.js": "7fee22f95c69f1083328547c185d85fb79c6081c",
+    "/liteStoreModClient/styles.09e2c710755c8867a460.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
